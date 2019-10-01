@@ -1,4 +1,4 @@
- picoCTF 2019
+# picoCTF 2019
 
 picoCTF is a two-week long CyberSecurity challenge created by security experts at Carnegie Mellon University. The 2019 competition is currently going on between September 27, 2019 and October 11, 2019.
 
@@ -151,6 +151,14 @@ Flutter Developer | Network Security | ML Enthusiast | Sophomore | Blogger
 <a href="https://linkedin.com/in/ShivamGoyal1899"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 <a href="https://facebook.com/ShivamGoyal1899"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
 <a href="https://instagram.com/shivamgoyal.co"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+
+## Main Collaborators - Team AeroCoders + Fellow Hackers
+
+### [Utkarsh Mishra](https://github.com/utkarsh1148) (Thapar Institute)
+### [Mankaran Singh](https://github.com/MankaranSingh) (Thapar Institute)
+### [Jaskeerat Singh](https://github.com/jaskeerat789) (Thapar Institute)
+### [Vaibhav Shrotriya](https://github.com/vishu1299) (Thapar Institute)
+### [Manan Gupta](https://github.com/manangupta986) (Thapar Institute)
 
 ## Found this repository useful?
 
