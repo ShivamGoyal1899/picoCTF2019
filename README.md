@@ -23,7 +23,7 @@ Lets Warm Up                 | General Skills      | 50       | `picoCTF{p}`
 Warmed Up                    | General Skills      | 50       | 
 Bases                        | General Skills      | 100      | 
 First Grep                   | General Skills      | 100      | 
-Resources                    | General Skills      | 100      | 
+Resources                    | General Skills      | 100      | `picoCTF{r3source_pag3_f1ag}`
 strings it                   | General Skills      | 100      | 
 what's a net cat?            | General Skills      | 100      | 
 Based                        | General Skills      | 200      | 
@@ -47,7 +47,7 @@ Investigative Reversing 3    | Forensics           |          |
 Investigative Reversing 4    | Forensics           |          | 
 like1000                     | Forensics           | 250      | 
 m00nwalk                     | Forensics           | 250      | `picoCTF{beep_boop_im_in_space}`
-m00nwalk2                    | Forensics           | 300      | 
+m00nwalk2                    | Forensics           | 300      | `picoCTF{the_answer_lies_hidden_in_plain_sight}`
 pastaAAA                     | Forensics           |          | 
 shark on wire 1              | Forensics           | 150      | `picoCTF{StaT31355_636f6e6e}`
 shark on wire 2              | Forensics           | 300      | 
@@ -57,7 +57,7 @@ WebNet0                      | Forensics           |          |
 WebNet1                      | Forensics           |          | 
 What Lies Within             | Forensics           | 150      | 
 WhitePages                   | Forensics           | 250      | 
-13                           | Cryptography        | 100      | 
+13                           | Cryptography        | 100      | `picoCTF{not_too_bad_of_a_problem}`
 AES-ABC                      | Cryptography        | 400      | `picoCTF{d0Nt_r0ll_yoUr_0wN_aES}`
 B00tL3g RSA                  | Cryptography        |          | `permanently disabled`
 b00tl3gRSA2                  | Cryptography        | 400      | `picoCTF{bad_1d3a5_3778907}`
@@ -65,7 +65,7 @@ b00tl3gRSA3                  | Cryptography        | 450      | `picoCTF{too_man
 caesar                       | Cryptography        | 100      | 
 Easy1                        | Cryptography        | 100      | 
 Flags                        | Cryptography        | 200      | 
-john_pollard                 | Cryptography        | 500      | 
+john_pollard                 | Cryptography        | 500      | `picoCTF{73176001,67867967}`
 la cifra de                  | Cryptography        | 200      | `picoCTF{b311a50_0r_v1gn3r3_c1ph3r54ddc1b9}`
 miniRSA                      | Cryptography        | 300      | `picoCTF{n33d_a_lArg3r_e_1dcea0a2}`
 Mr-Worldwide                 | Cryptography        | 200      | `picoCTF{KODIAK_ALASKA}`
@@ -85,7 +85,7 @@ Insp3ct0r                    | Web Exploitation    | 50       | `picoCTF{tru3_d3
 Irish-Name-Repo 1            | Web Exploitation    | 300      | `picoCTF{s0m3_SQL_0397f20c}`
 Irish-Name-Repo 2            | Web Exploitation    | 350      | 
 Irish-Name-Repo 3            | Web Exploitation    |          | 
-JaWT Scratchpad              | Web Exploitation    | 400      | 
+JaWT Scratchpad              | Web Exploitation    | 400      | `picoCTF{jawt_was_just_what_you_thought_9de8e25511a8841ab9ade0aa092be116}`
 logon                        | Web Exploitation    | 100      | 
 Open-to-admins               | Web Exploitation    | 200      | `picoCTF{0p3n_t0_adm1n5_effb525e}`
 picobrowser                  | Web Exploitation    | 200      | `picoCTF{p1c0_s3cr3t_ag3nt_7e9c671a}`
@@ -93,19 +93,19 @@ where are the robots         | Web Exploitation    | 100      |
 Java Script Kiddie           | Web Exploitation    | 400      | 
 Java Script Kiddie 2         | Web Exploitation    |          | 
 AfterLife                    | Binary Exploitation |          | 
-CanaRy                       | Binary Exploitation |          | 
+CanaRy                       | Binary Exploitation | 300      | 
 Ghost_Diary                  | Binary Exploitation | 500      | 
-GoT                          | Binary Exploitation |          | 
+GoT                          | Binary Exploitation | 350      | `picoCTF{A_s0ng_0f_1C3_and_f1r3_db12a9ed}`
 handy-shellcode              | Binary Exploitation | 50       | 
 Heap overflow                | Binary Exploitation |          | 
 L1im1tL355                   | Binary Exploitation |          | 
 leap-frog                    | Binary Exploitation |          | 
 messy-malloc                 | Binary Exploitation |          | 
-NewOverFlow-1                | Binary Exploitation |          | 
-NewOverFlow-2                | Binary Exploitation |          | 
+NewOverFlow-1                | Binary Exploitation | 200      | `picoCTF{th4t_w4snt_t00_d1ff3r3nt_r1ghT?_bfd48203}`
+NewOverFlow-2                | Binary Exploitation | 250      | `picoCTF{r0p_1t_d0nT_st0p_1t_64362a2b}`
 OverFlow 0                   | Binary Exploitation | 100      | `picoCTF{3asY_P3a5yd2b59a57}`
 OverFlow 1                   | Binary Exploitation | 150      | `picoCTF{n0w_w3r3_ChaNg1ng_r3tURn5a1b468a7}`
-OverFlow 2                   | Binary Exploitation | 250      | 
+OverFlow 2                   | Binary Exploitation | 250      | `picoCTF{arg5_and_r3turn598632d70}`
 pointy                       | Binary Exploitation |          | 
 practice-run-1               | Binary Exploitation | 50       | 
 rop32                        | Binary Exploitation |          | 
@@ -113,11 +113,11 @@ rop64                        | Binary Exploitation |          |
 SecondLife                   | Binary Exploitation |          | 
 seed-sPRiNG                  | Binary Exploitation |          | 
 sice_cream                   | Binary Exploitation |          | 
-slippery-shellcode           | Binary Exploitation | 200      | 
-stringzz                     | Binary Exploitation |          | 
+slippery-shellcode           | Binary Exploitation | 200      | `picoCTF{sl1pp3ry_sh311c0d3_ecc37b22}`
+stringzz                     | Binary Exploitation | 300      | `picoCTF{str1nG_CH3353_b7f47023}`
 zero_to_hero                 | Binary Exploitation |          | 
-asm1                         | Reverse Engineering | 200      | 
-asm2                         | Reverse Engineering |          | 
+asm1                         | Reverse Engineering | 200      | `picoCTF{0x533}`
+asm2                         | Reverse Engineering | 250      | `picoCTF{0x89}`
 asm3                         | Reverse Engineering |          | 
 asm4                         | Reverse Engineering |          | 
 B1ll_Gat35                   | Reverse Engineering |          | 
@@ -137,7 +137,7 @@ vault-door-4                 | Reverse Engineering | 250      |
 vault-door-5                 | Reverse Engineering | 300      | 
 vault-door-6                 | Reverse Engineering | 350      | 
 vault-door-7                 | Reverse Engineering | 400      | 
-vault-door-8                 | Reverse Engineering | 450      | 
+vault-door-8                 | Reverse Engineering | 450      | `picoCTF{s0m3_m0r3_b1t_sh1fTiNg_ad0f0c833}`
 vault-door-training          | Reverse Engineering | 50       | 
 
 ## Repository Created & Maintained By
