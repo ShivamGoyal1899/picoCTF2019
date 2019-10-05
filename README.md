@@ -83,21 +83,21 @@ Empire3                      | Web Exploitation    |          |
 GLHF                         | Web Exploitation    |          | `permanently disabled`
 Insp3ct0r                    | Web Exploitation    | 50       | `picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?9df7e69a}`
 Irish-Name-Repo 1            | Web Exploitation    | 300      | `picoCTF{s0m3_SQL_0397f20c}`
-Irish-Name-Repo 2            | Web Exploitation    | 350      | 
-Irish-Name-Repo 3            | Web Exploitation    |          | 
+Irish-Name-Repo 2            | Web Exploitation    | 350      | `picoCTF{m0R3_SQL_plz_3693681d}`
+Irish-Name-Repo 3            | Web Exploitation    | 400      | `picoCTF{3v3n_m0r3_SQL_d490b67d}`
 JaWT Scratchpad              | Web Exploitation    | 400      | `picoCTF{jawt_was_just_what_you_thought_9de8e25511a8841ab9ade0aa092be116}`
-logon                        | Web Exploitation    | 100      | 
+logon                        | Web Exploitation    | 100      | `picoCTF{th3_c0nsp1r4cy_l1v3s_3294afa0}`
 Open-to-admins               | Web Exploitation    | 200      | `picoCTF{0p3n_t0_adm1n5_effb525e}`
 picobrowser                  | Web Exploitation    | 200      | `picoCTF{p1c0_s3cr3t_ag3nt_7e9c671a}`
-where are the robots         | Web Exploitation    | 100      | 
-Java Script Kiddie           | Web Exploitation    | 400      | 
-Java Script Kiddie 2         | Web Exploitation    |          | 
+where are the robots         | Web Exploitation    | 100      | `picoCTF{ca1cu1at1ng_Mach1n3s_54e98}`
+Java Script Kiddie           | Web Exploitation    | 400      | `picoCTF{905765bf9ae368ad98261c10914d894e}`
+Java Script Kiddie 2         | Web Exploitation    | 450      | `picoCTF{f1ee7ff44419a675d1a0f0a1a91dff4c}`
 AfterLife                    | Binary Exploitation | 400      | 
 CanaRy                       | Binary Exploitation | 300      | 
 Ghost_Diary                  | Binary Exploitation | 500      | 
 GoT                          | Binary Exploitation | 350      | `picoCTF{A_s0ng_0f_1C3_and_f1r3_db12a9ed}`
 handy-shellcode              | Binary Exploitation | 50       | 
-Heap overflow                | Binary Exploitation |          | 
+Heap overflow                | Binary Exploitation | 450      | 
 L1im1tL355                   | Binary Exploitation | 400      | `picoCTF{str1nG_CH3353_295c8b0f}`
 leap-frog                    | Binary Exploitation | 300      | 
 messy-malloc                 | Binary Exploitation | 300      | `picoCTF{g0ttA_cl3aR_y0uR_m4110c3d_m3m0rY_8aa9bc45}`
@@ -108,8 +108,8 @@ OverFlow 1                   | Binary Exploitation | 150      | `picoCTF{n0w_w3r
 OverFlow 2                   | Binary Exploitation | 250      | `picoCTF{arg5_and_r3turn598632d70}`
 pointy                       | Binary Exploitation | 350      | 
 practice-run-1               | Binary Exploitation | 50       | 
-rop32                        | Binary Exploitation | 400      | 
-rop64                        | Binary Exploitation | 400      | 
+rop32                        | Binary Exploitation | 400      | `picoCTF{rOp_t0_b1n_sH_dee2e288}`
+rop64                        | Binary Exploitation | 400      | `picoCTF{rOp_t0_b1n_sH_w1tH_n3w_g4dg3t5_11cdd436}`
 SecondLife                   | Binary Exploitation | 400      | 
 seed-sPRiNG                  | Binary Exploitation | 350      | 
 sice_cream                   | Binary Exploitation |          | 
