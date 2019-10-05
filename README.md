@@ -20,8 +20,8 @@ Problem Title                | Category            | Points   | Flag
 The Factory's Secret         | General Skills      | 1        | `picoCTF{zerozerozerozero}`
 2Warm                        | General Skills      | 50       | `picoCTF{101010}`
 Lets Warm Up                 | General Skills      | 50       | `picoCTF{p}`
-Warmed Up                    | General Skills      | 50       | 
-Bases                        | General Skills      | 100      | 
+Warmed Up                    | General Skills      | 50       | `picoCTF{61}`
+Bases                        | General Skills      | 100      | `picoCTF{l3arn_th3_r0p35}`
 First Grep                   | General Skills      | 100      | 
 Resources                    | General Skills      | 100      | `picoCTF{r3source_pag3_f1ag}`
 strings it                   | General Skills      | 100      | 
@@ -92,33 +92,33 @@ picobrowser                  | Web Exploitation    | 200      | `picoCTF{p1c0_s3
 where are the robots         | Web Exploitation    | 100      | 
 Java Script Kiddie           | Web Exploitation    | 400      | 
 Java Script Kiddie 2         | Web Exploitation    |          | 
-AfterLife                    | Binary Exploitation |          | 
+AfterLife                    | Binary Exploitation | 400      | 
 CanaRy                       | Binary Exploitation | 300      | 
 Ghost_Diary                  | Binary Exploitation | 500      | 
 GoT                          | Binary Exploitation | 350      | `picoCTF{A_s0ng_0f_1C3_and_f1r3_db12a9ed}`
 handy-shellcode              | Binary Exploitation | 50       | 
 Heap overflow                | Binary Exploitation |          | 
-L1im1tL355                   | Binary Exploitation |          | 
-leap-frog                    | Binary Exploitation |          | 
-messy-malloc                 | Binary Exploitation |          | 
+L1im1tL355                   | Binary Exploitation | 400      | `picoCTF{str1nG_CH3353_295c8b0f}`
+leap-frog                    | Binary Exploitation | 300      | 
+messy-malloc                 | Binary Exploitation | 300      | `picoCTF{g0ttA_cl3aR_y0uR_m4110c3d_m3m0rY_8aa9bc45}`
 NewOverFlow-1                | Binary Exploitation | 200      | `picoCTF{th4t_w4snt_t00_d1ff3r3nt_r1ghT?_bfd48203}`
 NewOverFlow-2                | Binary Exploitation | 250      | `picoCTF{r0p_1t_d0nT_st0p_1t_64362a2b}`
 OverFlow 0                   | Binary Exploitation | 100      | `picoCTF{3asY_P3a5yd2b59a57}`
 OverFlow 1                   | Binary Exploitation | 150      | `picoCTF{n0w_w3r3_ChaNg1ng_r3tURn5a1b468a7}`
 OverFlow 2                   | Binary Exploitation | 250      | `picoCTF{arg5_and_r3turn598632d70}`
-pointy                       | Binary Exploitation |          | 
+pointy                       | Binary Exploitation | 350      | 
 practice-run-1               | Binary Exploitation | 50       | 
-rop32                        | Binary Exploitation |          | 
-rop64                        | Binary Exploitation |          | 
-SecondLife                   | Binary Exploitation |          | 
-seed-sPRiNG                  | Binary Exploitation |          | 
+rop32                        | Binary Exploitation | 400      | 
+rop64                        | Binary Exploitation | 400      | 
+SecondLife                   | Binary Exploitation | 400      | 
+seed-sPRiNG                  | Binary Exploitation | 350      | 
 sice_cream                   | Binary Exploitation |          | 
 slippery-shellcode           | Binary Exploitation | 200      | `picoCTF{sl1pp3ry_sh311c0d3_ecc37b22}`
 stringzz                     | Binary Exploitation | 300      | `picoCTF{str1nG_CH3353_b7f47023}`
 zero_to_hero                 | Binary Exploitation |          | 
 asm1                         | Reverse Engineering | 200      | `picoCTF{0x533}`
 asm2                         | Reverse Engineering | 250      | `picoCTF{0x89}`
-asm3                         | Reverse Engineering |          | 
+asm3                         | Reverse Engineering | 300      | 
 asm4                         | Reverse Engineering |          | 
 B1ll_Gat35                   | Reverse Engineering |          | 
 droids0                      | Reverse Engineering | 300      | 
