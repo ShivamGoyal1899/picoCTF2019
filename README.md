@@ -73,13 +73,13 @@ rsa-pop-quiz                 | Cryptography        | 200      | `picoCTF{wA8_th4
 Tapping                      | Cryptography        | 200      | 
 The Numbers                  | Cryptography        | 50       | 
 waves over lambda            | Cryptography        | 300      | 
-cereal hacker 1              | Web Exploitation    | 450      | 
-cereal hacker 2              | Web Exploitation    |          | 
+cereal hacker 1              | Web Exploitation    | 450      | `picoCTF{2eb6a9439bfa7cb1fc489b237de59dbf}`
+cereal hacker 2              | Web Exploitation    |          | `picoCTF{c9f6ad462c6bb64a53c6e7a6452a6eb7}`
 Client-side-again            | Web Exploitation    | 200      | 
 dont-use-client-side         | Web Exploitation    | 100      | 
-Empire1                      | Web Exploitation    | 400      | 
-Empire2                      | Web Exploitation    |          | 
-Empire3                      | Web Exploitation    |          | 
+Empire1                      | Web Exploitation    | 400      | `picoCTF{wh00t_it_a_sql_injecta4dfbd62}`
+Empire2                      | Web Exploitation    | 450      | `picoCTF{its_a_me_your_flag3f43252e}`
+Empire3                      | Web Exploitation    | 500      | `picoCTF{cookies_are_a_sometimes_food_404e643b}`
 GLHF                         | Web Exploitation    |          | `permanently disabled`
 Insp3ct0r                    | Web Exploitation    | 50       | `picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?9df7e69a}`
 Irish-Name-Repo 1            | Web Exploitation    | 300      | `picoCTF{s0m3_SQL_0397f20c}`
