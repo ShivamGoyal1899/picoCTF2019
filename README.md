@@ -62,7 +62,7 @@ AES-ABC                      | Cryptography        | 400      | `picoCTF{d0Nt_r0
 B00tL3g RSA                  | Cryptography        |          | `permanently disabled`
 b00tl3gRSA2                  | Cryptography        | 400      | `picoCTF{bad_1d3a5_3778907}`
 b00tl3gRSA3                  | Cryptography        | 450      | `picoCTF{too_many_fact0rs_7187489}`
-caesar                       | Cryptography        | 100      | 
+caesar                       | Cryptography        | 100      | `picoCTF{crossingtherubiconojovpqjs}`
 Easy1                        | Cryptography        | 100      | 
 Flags                        | Cryptography        | 200      | 
 john_pollard                 | Cryptography        | 500      | `picoCTF{73176001,67867967}`
@@ -71,7 +71,7 @@ miniRSA                      | Cryptography        | 300      | `picoCTF{n33d_a_
 Mr-Worldwide                 | Cryptography        | 200      | `picoCTF{KODIAK_ALASKA}`
 rsa-pop-quiz                 | Cryptography        | 200      | `picoCTF{wA8_th4t$_ill3aGal..o1c355060}`
 Tapping                      | Cryptography        | 200      | 
-The Numbers                  | Cryptography        | 50       | 
+The Numbers                  | Cryptography        | 50       | `PICOCTF{THENUMBERSMASON}`
 waves over lambda            | Cryptography        | 300      | 
 cereal hacker 1              | Web Exploitation    | 450      | `picoCTF{2eb6a9439bfa7cb1fc489b237de59dbf}`
 cereal hacker 2              | Web Exploitation    |          | `picoCTF{c9f6ad462c6bb64a53c6e7a6452a6eb7}`
@@ -93,7 +93,7 @@ where are the robots         | Web Exploitation    | 100      | `picoCTF{ca1cu1a
 Java Script Kiddie           | Web Exploitation    | 400      | `picoCTF{905765bf9ae368ad98261c10914d894e}`
 Java Script Kiddie 2         | Web Exploitation    | 450      | `picoCTF{f1ee7ff44419a675d1a0f0a1a91dff4c}`
 AfterLife                    | Binary Exploitation | 400      | 
-CanaRy                       | Binary Exploitation | 300      | 
+CanaRy                       | Binary Exploitation | 300      | `picoCTF{cAnAr135_mU5t_b3_r4nd0m!_0bd260ce}`
 Ghost_Diary                  | Binary Exploitation | 500      | 
 GoT                          | Binary Exploitation | 350      | `picoCTF{A_s0ng_0f_1C3_and_f1r3_db12a9ed}`
 handy-shellcode              | Binary Exploitation | 50       | 
@@ -118,14 +118,14 @@ stringzz                     | Binary Exploitation | 300      | `picoCTF{str1nG_
 zero_to_hero                 | Binary Exploitation |          | 
 asm1                         | Reverse Engineering | 200      | `picoCTF{0x533}`
 asm2                         | Reverse Engineering | 250      | `picoCTF{0x89}`
-asm3                         | Reverse Engineering | 300      | 
-asm4                         | Reverse Engineering |          | 
+asm3                         | Reverse Engineering | 300      | `picoCTF{0x5a7}`
+asm4                         | Reverse Engineering | 400      | 
 B1ll_Gat35                   | Reverse Engineering |          | 
-droids0                      | Reverse Engineering | 300      | 
-droids1                      | Reverse Engineering |          | 
-droids2                      | Reverse Engineering |          | 
-droids3                      | Reverse Engineering |          | 
-droids4                      | Reverse Engineering |          | 
+droids0                      | Reverse Engineering | 300      | `picoCTF{a.moose.once.bit.my.sister}`
+droids1                      | Reverse Engineering | 350      | `picoCTF{pining.for.the.fjords}`
+droids2                      | Reverse Engineering | 400      | `picoCTF{what.is.your.favourite.colour}`
+droids3                      | Reverse Engineering |          | `picoCTF{tis.but.a.scratch}`
+droids4                      | Reverse Engineering |          | `picoCTF{not.particularly.silly}`
 Forky                        | Reverse Engineering |          | 
 Need For Speed               | Reverse Engineering | 400      | 
 reverse_cipher               | Reverse Engineering | 300      | `picoCTF{r3v3rs369806a41}`
