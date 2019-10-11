@@ -56,7 +56,7 @@ unzip                        | Forensics           | 50       |
 WebNet0                      | Forensics           |          | 
 WebNet1                      | Forensics           |          | 
 What Lies Within             | Forensics           | 150      | 
-WhitePages                   | Forensics           | 250      | 
+WhitePages                   | Forensics           | 250      | `picoCTF{not_all_spaces_are_created_equal_3bf40b869ee984866e67f3057f006a92}`
 13                           | Cryptography        | 100      | `picoCTF{not_too_bad_of_a_problem}`
 AES-ABC                      | Cryptography        | 400      | `picoCTF{d0Nt_r0ll_yoUr_0wN_aES}`
 B00tL3g RSA                  | Cryptography        |          | `permanently disabled`
@@ -119,7 +119,7 @@ zero_to_hero                 | Binary Exploitation |          |
 asm1                         | Reverse Engineering | 200      | `picoCTF{0x533}`
 asm2                         | Reverse Engineering | 250      | `picoCTF{0x89}`
 asm3                         | Reverse Engineering | 300      | `picoCTF{0x5a7}`
-asm4                         | Reverse Engineering | 400      | 
+asm4                         | Reverse Engineering | 400      | `picoCTF{0x1d8}`
 B1ll_Gat35                   | Reverse Engineering |          | 
 droids0                      | Reverse Engineering | 300      | `picoCTF{a.moose.once.bit.my.sister}`
 droids1                      | Reverse Engineering | 350      | `picoCTF{pining.for.the.fjords}`
